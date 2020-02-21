@@ -8,7 +8,9 @@
     <body>
         
         <div id="app">
-            {{ message }}
+            <p>{{ message }}</p>
+            <button v-on:click="showMessage">Show previous projects</button>
+            <span v-if="showMessage">List projects here</span>
         </div>
         
         <script src="index.js"></script>
