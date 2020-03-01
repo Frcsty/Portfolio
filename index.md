@@ -41,5 +41,5 @@ I enjoy developing minecraft plugins and creating new and unique server
 gamemodes. Above you can see my current public plugins as well as my 
 SpigotMC and GitHub profiles.
 
-<img src="images/github.png" width="50" height="50"> [GitHub](https://github.com/Frcsty)
+<img src="images/github.png" link="https://github.com/Frcsty" width="50" height="50"> [GitHub](https://github.com/Frcsty)
 
