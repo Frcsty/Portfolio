@@ -1,6 +1,6 @@
 # Plugins
 
-## <img src="images/advancedafk.png" width="25" height="25"> Advanced AFK
+## Advanced AFK
 
 Then look no further, AdvancedAFK offers you advanced detection that will 
 detect and optionally kick players using all types of afk devices. 
@@ -36,6 +36,9 @@ _Coming soon.._
 
 # About Me
 
-```markdown
-text
-```
+My name is Frosty and I am an 18 year old student from Slovenia. 
+I enjoy developing minecraft plugins and creating new and unique server 
+gamemodes. Above you can see my current public plugins as well as my 
+SpigotMC and GitHub profiles.
+
+
