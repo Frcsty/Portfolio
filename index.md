@@ -49,3 +49,7 @@ gamemodes. Below you can see my current public plugins as well as my SpigotMC an
   <a href="https://www.spigotmc.org/members/frosty13.641503/">
     <img src="images/spigotmc.png" width="50" height="50">
   </a>
+  <a href="Frosty#3308">
+    <img src="images/discord.png" width="50" height="50">
+  </a>
+    
