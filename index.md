@@ -1,8 +1,6 @@
 
   <a>
-    <h1>
-      Plugins
-    </h1>
+    ### Plugins
   </a>
   <a href="https://github.com/Frcsty">
     <img src="images/github.png" width="50" height="50">
