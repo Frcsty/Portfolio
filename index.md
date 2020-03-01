@@ -1,4 +1,4 @@
-# Plugins
+# Plugins  [GitHub](https://github.com/Frcsty) [SpigotMC](https://www.spigotmc.org/members/frosty13.641503/)
 
 ## Advanced AFK
 
