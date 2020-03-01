@@ -1,5 +1,4 @@
-# Plugins  
-<a href="https://github.com/Frcsty">
+# Plugins  <a href="https://github.com/Frcsty">
   <img src="images/github.png" width="50" height="50">
 </a>
 
