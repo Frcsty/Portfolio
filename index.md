@@ -1,7 +1,22 @@
 
+# About Me 
+
+My name is Frosty and I am an 18 year old student from Slovenia. 
+I enjoy developing minecraft plugins and creating new and unique server 
+gamemodes. Below you can see my current public plugins as well as my SpigotMC and GitHub profiles.
+
+  <a href="https://github.com/Frcsty">
+    <img src="images/github.png" width="50" height="50">
+  </a>
+  <a href="https://www.spigotmc.org/members/frosty13.641503/">
+    <img src="images/spigotmc-nobg.png" width="50" height="50">
+  </a>
+  <a href="Frosty#3308">
+    <img src="images/discord-nobg.png" width="50" height="50">
+  </a>
+
 
 # Plugins
-
 
 ## Advanced AFK
 
@@ -36,19 +51,3 @@ _Coming soon.._
 
 _Coming soon.._
 
-
-# About Me 
-
-My name is Frosty and I am an 18 year old student from Slovenia. 
-I enjoy developing minecraft plugins and creating new and unique server 
-gamemodes. Below you can see my current public plugins as well as my SpigotMC and GitHub profiles.
-
-  <a href="https://github.com/Frcsty">
-    <img src="images/github.png" width="50" height="50">
-  </a>
-  <a href="https://www.spigotmc.org/members/frosty13.641503/">
-    <img src="images/spigotmc-nobg.png" width="50" height="50">
-  </a>
-  <a href="Frosty#3308">
-    <img src="images/discord-nobg.png" width="50" height="50">
-  </a>
