@@ -41,7 +41,7 @@ _Coming soon.._
 
 My name is Frosty and I am an 18 year old student from Slovenia. 
 I enjoy developing minecraft plugins and creating new and unique server 
-gamemodes. Above you can see my current public plugins as well as my SpigotMC and GitHub profiles.
+gamemodes. Below you can see my current public plugins as well as my SpigotMC and GitHub profiles.
 
   <a href="https://github.com/Frcsty">
     <img src="images/github.png" width="50" height="50">
