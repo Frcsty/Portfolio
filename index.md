@@ -1,4 +1,4 @@
-# Plugins  [GitHub](https://github.com/Frcsty) [SpigotMC](https://www.spigotmc.org/members/frosty13.641503/)
+# Plugins 
 
 ## Advanced AFK
 
@@ -41,4 +41,5 @@ I enjoy developing minecraft plugins and creating new and unique server
 gamemodes. Above you can see my current public plugins as well as my 
 SpigotMC and GitHub profiles.
 
+<img src="images/github.png" width="100" height="100"> [GitHub](https://github.com/Frcsty)
 
