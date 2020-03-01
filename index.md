@@ -1,4 +1,14 @@
-# Plugins 
+<br>
+  <h1>
+    Plugins
+  </h1>
+  <a href="https://github.com/Frcsty">
+    <img src="images/github.png" width="50" height="50">
+  </a>
+  <a href="https://www.spigotmc.org/members/frosty13.641503/">
+    <img src="images/spigotmc.png" width="50" height="50">
+  </a>
+</br>
 
 ## Advanced AFK
 
@@ -33,16 +43,6 @@ _Coming soon.._
 
 _Coming soon.._
 
-### Contacts
-
-<br>
-  <a href="https://github.com/Frcsty">
-    <img src="images/github.png" width="50" height="50">
-  </a>
-  <a href="https://www.spigotmc.org/members/frosty13.641503/">
-    <img src="images/spigotmc.png" width="50" height="50">
-  </a>
-</br>
 
 # About Me
 
