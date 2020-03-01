@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
+
+My name is Frosty and I am a Developer. I enjoy coming up with new things, as well as creating them.
 
 You can use the [editor on GitHub](https://github.com/Frcsty/frcsty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
