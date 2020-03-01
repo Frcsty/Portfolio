@@ -8,7 +8,7 @@ detect and optionally kick players using all types of afk devices.
 Everything is customizable in the config and there are bypass 
 permissions which cancel checks on specified user.
 
-- [SpigotMC](https://www.spigotmc.org/resources/advanced-afk.73461/)        ![AdvancedAFK Logo](images/advancedafk.png)
+- [SpigotMC](https://www.spigotmc.org/resources/advanced-afk.73461/)        <img src="images/advancedafk.png" width="100" height="100">
 
 ## Frozen Join
 
