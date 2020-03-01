@@ -1,4 +1,4 @@
-### Plugins
+# Plugins
 
 ## Advanced AFK
 
@@ -31,7 +31,7 @@ Description:
 ```
 
 
-### About Me
+# About Me
 
 ```markdown
 text
