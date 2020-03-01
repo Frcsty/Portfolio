@@ -1,3 +1,38 @@
-## About Me
+### Plugins
 
-My name is Frosty and I am a Developer. I enjoy coming up with new things, as well as creating them.
+## Advanced AFK
+
+```markdown
+Description:
+```
+
+## Frozen Join
+
+```markdown
+Description:
+```
+
+## Blocker
+
+```markdown
+Description:
+```
+
+## ChatColor
+
+```markdown
+Description:
+```
+
+## Arena
+
+```markdown
+Description:
+```
+
+
+### About Me
+
+```markdown
+text
+```
