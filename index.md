@@ -1,6 +1,6 @@
 # Plugins
 
-## Advanced AFK    <img src="images/advancedafk.png" width="100" height="100">
+## Advanced AFK    <img src="images/advancedafk.png" width="25" height="25">
 
 Then look no further, AdvancedAFK offers you advanced detection that will 
 detect and optionally kick players using all types of afk devices. 
