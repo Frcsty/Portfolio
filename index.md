@@ -1,6 +1,6 @@
 
 
-### Plugins
+# Plugins
 
 
 ## Advanced AFK
