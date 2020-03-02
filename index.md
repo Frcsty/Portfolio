@@ -20,7 +20,7 @@ gamemodes. Below you can see my current public plugins as well as my SpigotMC an
 
 ## Advanced AFK
 
-Then look no further, AdvancedAFK offers you advanced detection that will 
+AdvancedAFK offers you advanced detection that will 
 detect and optionally kick players using all types of afk devices. 
 Everything is customizable in the config and there are bypass 
 permissions which cancel checks on specified user.
