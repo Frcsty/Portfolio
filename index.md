@@ -43,6 +43,15 @@ donator commands.
 
 - [SpigotMC](https://www.spigotmc.org/resources/blocker.73334/)
 
+## Throwables
+
+Throwables is a plugin which allows you to use any item as a trowable, which execute 
+actions after a certain period of time. Featuring custom and default actions to
+allow for as much customisation as possible.
+(WE support coming soon)
+
+- [SpigotMC](https://www.spigotmc.org/resources/throwables.76345/)
+
 ## ChatColor
 
 _Coming soon.._
